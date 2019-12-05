@@ -4,7 +4,7 @@ SPANISH = {}
 
 SPANISH["UPDATER_AVAILABLE"] =           				"está disponible."
 SPANISH["UPDATER_UPDATE"] =               				"¿Quieres actualizar la aplicación?"
-SPANISH["CHINESE_FONT_DOWNLOAD"] =						"Descargando Letras para idioma Chino"
+SPANISH["CHINESE_FONT_DOWNLOAD"] =						"Descargando fuente para idioma Chino"
 SPANISH["MENU_TRANSLATE"] =								"Traduce Autoplugin"
 SPANISH["TRANSLATE_ENGLISH_TITLE"] =					"Inglés: "
 SPANISH["TRANSLATE_CURRENT_TITLE"] =					"Actual: "
@@ -235,7 +235,7 @@ SPANISH["INSTALLP_DESC_VFLUX"] =						"Filtro de pantalla para PS Vita a traves 
 SPANISH["INSTALLP_DESC_RESKYPE"] =						"Un plugin simple que habilita la app de Skype en 3.65+"
 SPANISH["INSTALLP_DESC_AUTOBOOT"] =						"Este plugin permite que una aplicación se inicie automaticamente luego del inicio de Enso, similar a lo que solía hacer AutoStart en la PSP"
 SPANISH["INSTALLP_DESC_VITACOMPA"] =					"Plugin que facilita el desarrollo de homebrews y plugins en PS Vita"
-SPANISH["INSTALLP_DESC_VOLUPROF"] =			     		"Cambia automáticamente entre perfiles del volumen de los parlantes y el volumen de los audífonos, útil si quieres volumenes distintos al jugar con audífonos y con parlante"
+SPANISH["INSTALLP_DESC_VOLUPROF"] =			     		"Cambia automáticamente entre perfiles del volumen de los altavoces y el volumen de los audífonos, útil si quieres volumenes distintos al jugar con audífonos y con altavoces"
 
 --ALL
 SPANISH["INSTALLP_DESC_VSHMENU"] =						"Un plugin con un menú estilo VHS para los juegos PS Vita y Homebrews"
